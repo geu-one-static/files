@@ -23,7 +23,7 @@ for file in ./**/*.pdf; do
         mkdir "$filepath/thumbs"
     fi
     
-    convert "$file"[0] -background white -alpha remove -thumbnail x150 -gravity north -extent x150 -crop 90%x+0+0 "$filepath/thumbs/$filename.jpg"
+    convert "$file"[0] -background white -alpha remove -thumbnail 170x170 -gravity center -extent 150x150 -crop 80%x+0+0 "$filepath/thumbs/$filename.jpg"
 done
 
 #for file in ./**/*.{pdf,jpg}; do
