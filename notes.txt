@@ -1,4 +1,5 @@
 --- RESOURCES ---
 content/Academic Calendar January-June 2024.pdf
-content/Mini Project 5th sem all.pdf
+content/Mini Project 4th sem [2026].pdf
+content/Mini Project 6th sem [2025].pdf
 content/syllabus-CSE.pdf
